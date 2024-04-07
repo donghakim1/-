@@ -1,6 +1,7 @@
 에이펙스 레전드 관련해서 끊임없는 발전을 위한 개인적인 공부와 분석, 연구, 고찰에 관한 글입니다.
 
-Social
+
+SOCIAL
 
 TWITCH: https://www.twitch.tv/elmaa1_
 
